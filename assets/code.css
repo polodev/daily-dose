@@ -1,0 +1,39 @@
+/*@import 'rouge-themes/base16.css';*/
+/*@import 'rouge-themes/base16.dark.css';*/
+/*@import 'rouge-themes/base16.light.css';*/
+/*@import 'rouge-themes/base16.monokai.css';*/
+/*@import 'rouge-themes/base16.monokai.dark.css';*/
+/*@import 'rouge-themes/base16.monokai.light.css';*/
+/*@import 'rouge-themes/base16.solarized.css';*/
+/*@import 'rouge-themes/base16.solarized.dark.css';*/
+/*@import 'rouge-themes/base16.solarized.light.css';*/
+/*@import 'rouge-themes/bw.css';*/
+/*@import 'rouge-themes/colorful.css';*/
+/*@import 'rouge-themes/github.css';*/
+/*@import 'rouge-themes/gruvbox.css';*/
+/*@import 'rouge-themes/gruvbox.dark.css';*/
+/*@import 'rouge-themes/gruvbox.light.css';*/
+/*@import 'rouge-themes/igorpro.css';*/
+/*@import 'rouge-themes/magritte.css';*/
+/*@import 'rouge-themes/molokai.css';*/
+/*@import 'rouge-themes/monokai.css';*/
+/*@import 'rouge-themes/monokai.sublime.css';*/
+/*@import 'rouge-themes/pastie.css';*/
+/*@import 'rouge-themes/thankful_eyes.css';*/
+@import 'rouge-themes/tulip.css';
+
+
+/*@import 'syntax/github.css';*/
+/*@import 'syntax/github.css';*/
+
+
+.highlight {
+    max-height: 400px;
+    overflow: scroll;
+    border: 1px #C1C1C1;
+    border-radius: 3px;
+}
+/*td.rouge-gutter.gl {
+  max-width: 40px;
+  box-sizing: border-box;
+}*/
