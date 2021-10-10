@@ -9,7 +9,7 @@
 /*@import 'rouge-themes/base16.solarized.light.css';*/
 /*@import 'rouge-themes/bw.css';*/
 /*@import 'rouge-themes/colorful.css';*/
-/*@import 'rouge-themes/github.css';*/
+@import 'rouge-themes/github.css';
 /*@import 'rouge-themes/gruvbox.css';*/
 /*@import 'rouge-themes/gruvbox.dark.css';*/
 /*@import 'rouge-themes/gruvbox.light.css';*/
@@ -20,18 +20,36 @@
 /*@import 'rouge-themes/monokai.sublime.css';*/
 /*@import 'rouge-themes/pastie.css';*/
 /*@import 'rouge-themes/thankful_eyes.css';*/
-@import 'rouge-themes/tulip.css';
+/*@import 'rouge-themes/tulip.css';*/
 
+code {
+  font-family: 'Fira Code', monospace;
+  line-height: 1.9;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
 
-/*@import 'syntax/github.css';*/
-/*@import 'syntax/github.css';*/
-
-
-.highlight {
-    max-height: 400px;
-    overflow: scroll;
-    border: 1px #C1C1C1;
-    border-radius: 3px;
+pre.highlight {
+  max-height: 400px;
+  overflow: scroll;
+  box-shadow: 0 2px 2px rgb(0 0 0 / 8%);
+  border-radius: 3px;
+  padding:  15px;
+}
+code.highlighter-rouge {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 8%);
+  color: #ca473f;
+  background: #fbfbfd;
+  display: inline-flex;
+  padding: 0 .125rem;
+  max-width: 100%;
+  overflow-x: auto;
+  vertical-align: middle;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
 }
 /*td.rouge-gutter.gl {
   max-width: 40px;

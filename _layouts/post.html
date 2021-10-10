@@ -9,6 +9,14 @@ layout: default
         {%- include post-data.html -%}
     </header>
 
+    {%- if page.topic -%}
+    <div class="post-topic">
+        <h3>Post Topic: </h3>
+        {{ page.topic }}
+    </div>
+    {%- endif -%}
+
+
     <div articlebody" class="post-body itemprop=">
         {{ content }}
     </div>

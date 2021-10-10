@@ -1,9 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:wght@400;700;800&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:wght@400;700;800&display=swap");*/
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Lora:wght@400;700&family=Open+Sans:wght@400;700;800&display=swap');
 
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+html, body {
+  line-height:  1.4em;
+}
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.5;
+}
+.post-topic {
+  padding:  10px;
+  border:  1px solid #eee;
+  box-shadow: 1px 1px 1px rgb(0 0 0 / 9%);
 }
 
 h1,
@@ -207,10 +219,15 @@ footer .pure-menu-link:hover {
 }
 
 .post-entry h1,
-.post-entry h2,
-.post-entry h3 {
+.post-entry h2
+{
   margin-top: 25px;
   margin-bottom: 15px;
+}
+.post-entry h3 
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .post-header p {
@@ -234,6 +251,7 @@ footer .pure-menu-link:hover {
   font-size: 2em;
   color: #222;
   margin-bottom: 0.2em;
+  line-height: 2em;
 }
 
 .post-avatar {
@@ -250,7 +268,7 @@ footer .pure-menu-link:hover {
 .post-meta {
   font-family: "Open Sans", sans-serif;
   color: #444;
-  margin: 0;
+  margin-bottom:  20px;
 }
 
 .post-meta a {
@@ -352,7 +370,7 @@ footer .pure-menu-link:hover {
   }
 
   .post-entry {
-    width: 70%;
+    width: 90%;
   }
 
   .tags {
