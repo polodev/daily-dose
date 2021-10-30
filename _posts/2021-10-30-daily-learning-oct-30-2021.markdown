@@ -53,6 +53,7 @@ the second command (the command after the `|`` character). We can use a cascade 
 * `Ctrl+Z`, which is used to stop the command that is running in the foreground (on the console). Even though it does stop the command, it does not terminate i”
 
 ### commands     
+* `man` - manual
 * `bg` - background
 * `fg` - foreground
 * `jobs` - current running jobs
@@ -66,6 +67,15 @@ the second command (the command after the `|`` character). We can use a cascade 
 * `rm` - to remove
 * `mv` - to move/rename
 
+### Repositories & PPA
+There are four official repositories provided by Canonical (the company that created Ubuntu):”
+1. main 2. restricted 3. universe 4. multiverse    
+
+Personal Package Archives (PPA) which is a repository software for Ubuntu (visit https://launchpad.net/ubuntu/+ppas for more information).
+The managing of repositories on your Ubuntu Server is done in the /etc/apt/sources.list file. ”
 
 
-Excerpt From: Abdelmonam Kouka. “Ubuntu Server Essentials”. Apple Books. 
+
+
+
+
