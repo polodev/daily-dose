@@ -74,6 +74,20 @@ There are four official repositories provided by Canonical (the company that cre
 Personal Package Archives (PPA) which is a repository software for Ubuntu (visit https://launchpad.net/ubuntu/+ppas for more information).
 The managing of repositories on your Ubuntu Server is done in the /etc/apt/sources.list file. ”
 
+### apt
+apt (Advanced Packaging Tool)
+
+## Networking 
+Network configuration file ` /etc/network/interfaces `      
+
+Restarting after changing networking file `sudo /etc/init.d/networking restart`      
+
+Another important network configuration file is /etc/resolv.conf, which contains the DNS list used by your server     
+
+
+
+
+
 
 
 
