@@ -10,6 +10,8 @@ category:
   - Programming 
 ---
 
+Updated
+
 Today I have gone through a problem while using laravel collection. My collection required a custom keys for each record.     
 I have achieved this by using `mapWithKeys` method 
 
