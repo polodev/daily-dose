@@ -35,6 +35,9 @@ disqus: daily-dose-2
 no_toc: true
 toc_min: 2
 toc_max: 6
+minima:
+  date_format: "%b %-d, %Y"
+
 
 author: Shibu Chandra Debnath
 author_bio: >-
