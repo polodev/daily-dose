@@ -8,6 +8,7 @@ tags:
 category:
   - Gym
 ---
+Updated 
 
 ## Shoulder    
 * Anterior Deltoid (Front Head)
