@@ -59,6 +59,7 @@ tags: gym
 1. Dumbbell curl 
 1. Hammer curl 
 1. Bicep barbell 
+1. Machine Bicep Exercise
 
 
 ## Considerable       
