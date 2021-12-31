@@ -1,6 +1,6 @@
 ---
-title: Gym Routine
-tags: gym
+title: Bubble
+tags: bubble
 ---
 
 # Lynda Bubble 
