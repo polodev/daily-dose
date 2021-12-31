@@ -1,6 +1,6 @@
 ---
 title: Gym Routine
-tags: gym
+tags: 
 ---
 
 ## Common gym (every day)      

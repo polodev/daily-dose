@@ -1,6 +1,6 @@
 ---
 title: New Year's resolution
-tags: Routine
+tags: 
 ---
 
 # Study 
