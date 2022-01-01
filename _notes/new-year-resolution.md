@@ -3,16 +3,33 @@ title: New Year's resolution
 tags: 
 ---
 
-# Study 
+## Personality
+### Jeffrey way
+* https://laracasts.com/
+### Chris Sev
+* https://scotch.io/
+* https://twitter.com/chris__sev 
+* https://www.better.dev/
+### Flaviocopes
+* https://flaviocopes.com/
+
+## Target 
+
+* Build a website where I will write mostly on Mysql( other database ), Ubuntu( other os ) and Laravel     
+
+
+
+
+## Study 
 * Daily one hour English Study
 * Daily one hour PHP Study for Zend Certification
 
-# Exploration field 
+## Exploration field 
 * Crypto currency 
 * Affiliate Marketing 
 
-# Article
-## Tutorial 
+## Article
+### Tutorial 
 * [https://alligator.io/](https://alligator.io/)
 * [https://dev.to/](https://dev.to/)
 * [https://phptherightway.com/](https://phptherightway.com/)
@@ -26,12 +43,14 @@ tags:
 * [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 * [https://www.sitepoint.com/blog/](https://www.sitepoint.com/blog/)
 * [https://scotch.io/](https://scotch.io/)
+* [https://www.better.dev/](https://www.better.dev/)
+* [https://www.digitalocean.com/blog/](https://www.digitalocean.com/blog/)
 
 
 
 
-# Videos 
-## Tutorials channel 
+## Videos 
+### Tutorials channel 
 * [https://www.linkedin.com/learning/](https://www.linkedin.com/learning/)
 * [https://laracasts.com/](https://laracasts.com/)
 * [Bitfumes - https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA](https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA)
@@ -50,7 +69,7 @@ tags:
 
 
 
-## Gym video 
+### Gym video 
 * [Saket Gokhale - https://www.youtube.com/c/SaketGokhalevlogs](https://www.youtube.com/c/SaketGokhalevlogs)
 * [Aryan Khanna https://www.youtube.com/c/AryanKhannayt](https://www.youtube.com/c/AryanKhannayt)
 * [Fit Muscle tv - https://www.youtube.com/channel/UCn8Fiasqd-6G3A6AS322mZA](https://www.youtube.com/channel/UCn8Fiasqd-6G3A6AS322mZA)
@@ -64,7 +83,7 @@ tags:
 * [Hypertroph - https://www.youtube.com/c/Hypertroph](https://www.youtube.com/c/Hypertroph)
 
 
-## Tech 
+### Tech 
 * [TechSci guy - https://www.youtube.com/channel/UCtu_QzoqdLjRt3Nmqe7aeqg](https://www.youtube.com/channel/UCtu_QzoqdLjRt3Nmqe7aeqg)
 * [Mkbhd - https://www.youtube.com/c/mkbhd/videos](https://www.youtube.com/c/mkbhd/videos)
 * [Mrwhosetheboss - https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA](https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA)
@@ -77,7 +96,7 @@ tags:
 
 
 
-## Motivation / Self Development
+### Motivation / Self Development
 
 * [Seeken Youtube - https://www.youtube.com/channel/UCfhbydY40P2Lli9HuBz8cdA](https://www.youtube.com/channel/UCfhbydY40P2Lli9HuBz8cdA)
 * [AliAbdaal - https://www.youtube.com/c/aliabdaal/videos](https://www.youtube.com/c/aliabdaal/videos)
@@ -101,7 +120,7 @@ tags:
 
 
 
-## Study
+### Study
 * [10 Minutes School - https://10minuteschool.com/](https://10minuteschool.com/)
 * [English Class 101 - https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg](https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg)
 * [CapstoneEducation - https://www.youtube.com/c/CapstoneEducation/videos](https://www.youtube.com/c/CapstoneEducation/videos)
@@ -112,7 +131,7 @@ tags:
 * [MerveStudyCorner - https://www.youtube.com/c/MerveStudyCorner](https://www.youtube.com/c/MerveStudyCorner)
 
 
-## Memory 
+### Memory 
 * [NelsonDellis - https://www.youtube.com/c/NelsonDellis/videos](https://www.youtube.com/c/NelsonDellis/videos)
 * [Ron-white-memory - https://www.youtube.com/c/rwhite73-ron-white-memory-expert-memory-training/videos](https://www.youtube.com/c/rwhite73-ron-white-memory-expert-memory-training/videos)
 * [Mullen Memory - https://www.youtube.com/user/ajmullen7](https://www.youtube.com/user/ajmullen7)
@@ -124,7 +143,7 @@ tags:
 
 
 
-## Information 
+### Information 
 * [EnayetChowdhuryOfficial - https://www.youtube.com/c/EnayetChowdhuryOfficial/videos](https://www.youtube.com/c/EnayetChowdhuryOfficial/videos)
 * [Khalid Farhan - https://www.youtube.com/c/PassiveJournalUniversity/videos](https://www.youtube.com/c/PassiveJournalUniversity/videos)
 * [Nafis Salim - https://www.youtube.com/channel/UCz5MdGbNZ0Xz83qUTvW50OQ](https://www.youtube.com/channel/UCz5MdGbNZ0Xz83qUTvW50OQ)
@@ -137,27 +156,25 @@ tags:
 * [Pi Finger Motivation - https://www.youtube.com/channel/UC_UPGu8wh2jgQ65FEFQlMrg](https://www.youtube.com/channel/UC_UPGu8wh2jgQ65FEFQlMrg)
 
 
-## Income 
+### Income 
 * [IncomeSchool - https://www.youtube.com/c/IncomeSchool](https://www.youtube.com/c/IncomeSchool)
 * [GoelaSchoolofFinance - https://www.youtube.com/c/GoelaSchoolofFinance/videos](https://www.youtube.com/c/GoelaSchoolofFinance/videos)
 * [DanLok - https://www.youtube.com/c/DanLok/videos](https://www.youtube.com/c/DanLok/videos)
 * [NeilPatel - https://www.youtube.com/c/NeilPatel/videos](https://www.youtube.com/c/NeilPatel/videos)
 
 
-## Vlogging 
+### Vlogging 
 * [FlyingBeast - https://www.youtube.com/c/FlyingBeast320](https://www.youtube.com/c/FlyingBeast320)
 * [drewbinsky - https://www.youtube.com/c/drewbinsky](https://www.youtube.com/c/drewbinsky)
 
-## Health 
+### Health 
 * [DrEricBergDC - https://www.youtube.com/c/DrEricBergDC/featured](https://www.youtube.com/c/DrEricBergDC/featured)
 * [HealthCareBangladesh - https://www.youtube.com/c/HealthCareBangladesh](https://www.youtube.com/c/HealthCareBangladesh)
 * [MediTalkDigital - https://www.youtube.com/c/MediTalkDigital](https://www.youtube.com/c/MediTalkDigital)
 * [LifeSpringLimited - https://www.youtube.com/c/LifeSpringLimited/videos](https://www.youtube.com/c/LifeSpringLimited/videos)
 
-## Exploration
+### Exploration
 * [DappUniversity - https://www.youtube.com/c/DappUniversity/videos](https://www.youtube.com/c/DappUniversity/videos)
-
-
 
 
 
