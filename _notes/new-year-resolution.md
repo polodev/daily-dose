@@ -25,6 +25,7 @@ tags:
 * [https://www.w3schools.com/](https://www.w3schools.com/)
 * [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 * [https://www.sitepoint.com/blog/](https://www.sitepoint.com/blog/)
+* [https://scotch.io/](https://scotch.io/)
 
 
 
@@ -152,6 +153,9 @@ tags:
 * [HealthCareBangladesh - https://www.youtube.com/c/HealthCareBangladesh](https://www.youtube.com/c/HealthCareBangladesh)
 * [MediTalkDigital - https://www.youtube.com/c/MediTalkDigital](https://www.youtube.com/c/MediTalkDigital)
 * [LifeSpringLimited - https://www.youtube.com/c/LifeSpringLimited/videos](https://www.youtube.com/c/LifeSpringLimited/videos)
+
+## Exploration
+* [DappUniversity - https://www.youtube.com/c/DappUniversity/videos](https://www.youtube.com/c/DappUniversity/videos)
 
 
 
