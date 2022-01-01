@@ -8,7 +8,7 @@ tags:
 [https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068](https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068)    
 
 # Laracast Bubble
-
+VS code tutorial 
 
 # Others Bubble 
 * [React JS Project - Build Rick & Morty Character Wiki 2021 React JS  - https://www.youtube.com/watch?v=35QCQnohLg8](https://www.youtube.com/watch?v=35QCQnohLg8)
