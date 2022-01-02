@@ -92,6 +92,12 @@ defaults:
     values:
       layout: journal-entry
       content-type: journals
+  - scope:
+      path: ""
+      type: statements
+    values:
+      layout: statement-single
+      content-type: statements
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
@@ -102,9 +108,12 @@ collections:
   notes:
     output: true
     permalink: /notes/:title
-  journals:
+  # journals:
+  #   output: true
+  #   permalink: /journals/:title
+  statements:
     output: true
-    permalink: /journals/:title
+    permalink: /statements/:title
 
 # Exclude from processing.
 exclude:

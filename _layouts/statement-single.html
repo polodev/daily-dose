@@ -6,25 +6,30 @@ layout: default
 
     <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
+
             {%- if page.collection != 'posts' -%}
-            <a class="pure-button" href="{{site.url}}{{site.baseurl}}/{{page.collection}}">{{ page.collection | capitalize }}</a>
+            <a class="pure-button" href="{{site.url}}{{site.baseurl}}/{{page.collection}}">
+                {{page.collection | capitalize}}
+            </a>
             >> &nbsp; 
             {%- endif -%}
-            {{ page.title | escape }}
+
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ page.title | escape }} - 
+            ({{ page.title | date: date_format }} )
         </h2>
-        {%- include post-data.html -%}
     </header>
-    <p>collection: {{page.collection}}</p>
 
-    {%- if page.topic -%}
     <div class="post-topic">
-        <h3>Post Topic: </h3>
+        <h3>Statement: </h3>
         {{ page.topic }}
+        <p>
+            <strong>Debit</strong>: {{ page.debit }}
+            <strong>Credit</strong>: {{ page.credit }}
+        </p>
     </div>
-    {%- endif -%}
 
-
-    <div class="post-body" itemprop="articlebody">
+    <div class="post-body itemprop=">
         {{ content }}
     </div>
 

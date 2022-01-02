@@ -1,0 +1,4 @@
+---
+layout: statements
+permalink: /statements
+---
