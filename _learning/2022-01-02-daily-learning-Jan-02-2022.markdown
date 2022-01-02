@@ -48,3 +48,25 @@ In my case I have condition
 {% endraw %}
 ~~~
 
+## limit post loop
+
+~~~liquid
+{% raw %}
+{%- for post in posts limit:2 -%}
+{%- for note in notes limit:2 -%}
+{% endraw %}
+~~~
+
+## `or` liquid operator using in jekyll
+
+~~~liquid
+{% raw %}
+  {%- if page.tags.size > 0 or page.categories.size > 0 -%}
+    &#8239;| &#8239; 
+  {%- endif -%}
+{% endraw %}
+~~~
+
+
+
+

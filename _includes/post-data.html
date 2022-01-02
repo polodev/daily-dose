@@ -19,7 +19,7 @@
     {% endfor %}
     {%- endif -%}
 
-    {%- if page.tags.size > 0 -%}
+    {%- if page.tags.size > 0 or page.categories.size > 0 -%}
      &#8239;| &#8239; 
     {%- endif -%}
 
@@ -27,4 +27,13 @@
     {%- for tag in page.tags -%}
     <a href="{{site.url}}{{site.baseurl}}/tags/#{{ tag }}">#{{ tag }}</a> &#8239;
     {%- endfor -%}
+
+<!--     {%- if page.categories.size > 0 -%}
+     &#8239;| &#8239; 
+    {%- endif -%}
+ -->
+    {%- for category in page.categories -%}
+    <a href="{{site.url}}{{site.baseurl}}/categories/#{{ category }}">#{{ category }}</a> &#8239;
+    {%- endfor -%}
+
 </p>
