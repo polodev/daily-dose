@@ -3,10 +3,9 @@ title: Daily Learning Oct 31, 2021
 layout: post
 topic:
   Linux timezone
-tags:
-  - Laravel
 category:
-  - Programming 
+  - programming 
+  - laravel
 ---
 
 ## `timedatectl`

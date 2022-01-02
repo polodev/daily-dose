@@ -3,11 +3,9 @@ title: Daily Learning Dec 29, 2021
 layout: post
 topic:
   Self Improvement 
-tags:
-  - Self Improvement
-  - Books
 category:
-  - Books
+  - books
+  - self improvement
 ---
 
 5 habits that will make you powerful beyond belief 

@@ -2,11 +2,10 @@
 title: Daily Learning Oct 30, 2021
 layout: post
 topic:
-tags:
-  - Ubuntu
-  - Server
 category:
-  - Linux 
+  - linux 
+  - ubuntu
+  - server
 ---
 ### From: Abdelmonam Kouka. “Ubuntu Server Essentials”.
 

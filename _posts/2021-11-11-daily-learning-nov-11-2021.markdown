@@ -3,10 +3,9 @@ title: Daily Learning Nov 11, 2021
 layout: post
 topic:
   Language
-tags:
-  - Language
 category:
-  - Writing 
+  - writing 
+  - language
 ---
 
 ### saddam dokan 

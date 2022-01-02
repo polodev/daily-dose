@@ -3,10 +3,8 @@ title: Daily Learning Dec 31, 2021
 layout: post
 topic:
   Self Improvement
-tags:
-  - Self Improvement
 category:
-  - 
+  - self improvement
 ---
 
 # Self Improvement 

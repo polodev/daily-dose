@@ -3,10 +3,8 @@ title: Daily Learning Dec 29, 2021
 layout: post
 topic:
   Gym
-tags:
-  - Gym
 category:
-  - Gym
+  - gym
 ---
 Updated 
 

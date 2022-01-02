@@ -3,11 +3,10 @@ title: Daily Learning Nov 2, 2021
 layout: post
 topic:
   React, Linux
-tags:
-  - React
-  - Linux
 category:
-  - Programming 
+  - programming 
+  - react
+  - linux
 ---
 
 ## useState

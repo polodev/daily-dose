@@ -4,10 +4,9 @@ layout: post
 topic:
   Custom key for laravel resource using mapWithKeys.     
   Laravel Collection, Laravel Resource.  
-tags:
-  - Laravel
 category:
-  - Programming 
+  - programming 
+  - laravel
 ---
 
 Today I have gone through a problem while using laravel collection. My collection required a custom keys for each record.     
