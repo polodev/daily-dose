@@ -10,8 +10,8 @@ category:
 
 ## Grid 
 
-[CSS Grid - https://scotch.io/tutorials/getting-started-with-css-grid-layout](https://scotch.io/tutorials/getting-started-with-css-grid-layout)
-[Deep Dive into css grid - https://scotch.io/tutorials/deep-dive-into-css-grid-2](https://scotch.io/tutorials/deep-dive-into-css-grid-2)
+* [CSS Grid - https://scotch.io/tutorials/getting-started-with-css-grid-layout](https://scotch.io/tutorials/getting-started-with-css-grid-layout)
+* [Deep Dive into css grid - https://scotch.io/tutorials/deep-dive-into-css-grid-2](https://scotch.io/tutorials/deep-dive-into-css-grid-2)
 
 * Terminology: Grid
 * Property: display
