@@ -1,5 +1,5 @@
 ---
-title: New Year's resolution
+title: New Year's resolution 2022
 tags: 
 ---
 
@@ -64,6 +64,7 @@ tags:
 * [LearnwithSumit - https://www.youtube.com/c/LearnwithSumit](https://www.youtube.com/c/LearnwithSumit)
 * [CodingTech collection of Tutorials - https://www.youtube.com/c/CodingTech/videos](https://www.youtube.com/c/CodingTech/videos)
 * [LaravelDaily - https://www.youtube.com/c/LaravelDaily/videos](https://www.youtube.com/c/LaravelDaily/videos)
+* [Thomas Bradley Jekyll - https://www.youtube.com/c/acinteractivedesign/videos](https://www.youtube.com/c/acinteractivedesign/videos)
 
 
 

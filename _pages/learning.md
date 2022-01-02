@@ -1,0 +1,4 @@
+---
+layout: learning
+permalink: /learning
+---

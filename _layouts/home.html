@@ -31,10 +31,19 @@ layout: default
                         <br class="sm-display"/>
                         By
                         <a class="post-author" href="#">{{ post.author }}</a>
-                        under
+
+                        {%- if post.tags.size > 0 or post.categories.size > 0 -%}
+                            |
+                        {%- endif -%}
+                        
                         <span>
                             {% for tag in post.tags %}
                                 <a href="{{site.url}}{{site.baseurl}}/tags/#{{ tag }}">#{{ tag }}</a>
+                            {% endfor %}
+                        </span>
+                        <span>
+                            {% for category in post.categories %}
+                                <a href="{{site.url}}{{site.baseurl}}/categories/#{{ category }}">#{{ category }}</a>
                             {% endfor %}
                         </span>
                     </p>

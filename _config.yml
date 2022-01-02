@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Daily Dose of Learning"
+title: "Daily Dose"
 email: polodev10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   For tracking daily progress on learning
@@ -81,6 +81,13 @@ defaults:
       author: Shibu Chandra Debnath
       avatar: assets/profile.jpeg
   - scope:
+      path: "" # an empty string here means all files in the project
+      type: "learning" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: Shibu Chandra Debnath
+      avatar: assets/profile.jpeg
+  - scope:
       path: ""
       type: notes
     values:
@@ -108,6 +115,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:title
+  learning:
+    output: true
+    permalink: /learning/:title
   # journals:
   #   output: true
   #   permalink: /journals/:title
