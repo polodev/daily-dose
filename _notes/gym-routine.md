@@ -80,6 +80,7 @@ tags:
 * [Video - How I Built 3D Shoulders - https://www.youtube.com/watch?v=Cdr6BXqOHOg](https://www.youtube.com/watch?v=Cdr6BXqOHOg)    
 * [Article - Abs Exercise - https://fitcoachky.com/quick-simple-tough-ab-workout/](https://fitcoachky.com/quick-simple-tough-ab-workout/)    
 * [Traps exercise - https://central.gymshark.com/article/5-best-exercises-to-build-bigger-traps](https://central.gymshark.com/article/5-best-exercises-to-build-bigger-traps)
+* [Dumbbell Only Leg Exercise - https://www.youtube.com/watch?v=DpDsRqQ6Bcc](https://www.youtube.com/watch?v=DpDsRqQ6Bcc)
 
 
 

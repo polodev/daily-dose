@@ -5,7 +5,10 @@ tags:
 
 # Lynda Bubble 
 
-[https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068](https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068)    
+* [https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068](https://www.linkedin.com/learning/tailwind-css-essential-training/font-directives?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=74415068)    
+
+* [https://www.linkedin.com/learning/overcome-overthinking/let-go-of-overthinking?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=74415068](https://www.linkedin.com/learning/overcome-overthinking/let-go-of-overthinking?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=74415068)
+
 
 # Laracast Bubble
 VS code tutorial 
