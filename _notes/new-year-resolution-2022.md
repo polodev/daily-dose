@@ -3,15 +3,27 @@ title: New Year's resolution 2022
 tags: 
 ---
 
-## Personality
+## The People Who Inspire Me    
+
 ### Jeffrey way
-* https://laracasts.com/
+* [https://laracasts.com/](https://laracasts.com/)
+
 ### Chris Sev
-* https://scotch.io/
-* https://twitter.com/chris__sev 
-* https://www.better.dev/
+* [https://scotch.io/](https://scotch.io/)
+* [https://twitter.com/chris__sev ](https://twitter.com/chris__sev )
+* [https://www.better.dev/](https://www.better.dev/)
+
 ### Flaviocopes
-* https://flaviocopes.com/
+* [https://flaviocopes.com/](https://flaviocopes.com/)
+
+### Saket Gokhale
+* [Saket Gokhale - https://www.youtube.com/c/SaketGokhalevlogs](https://www.youtube.com/c/SaketGokhalevlogs)
+
+### Aryan Khanna
+* [Aryan Khanna https://www.youtube.com/c/AryanKhannayt](https://www.youtube.com/c/AryanKhannayt)
+
+### Ali Abdaal
+* [AliAbdaal - https://www.youtube.com/c/aliabdaal/videos](https://www.youtube.com/c/aliabdaal/videos)
 
 ## Target 
 

@@ -5,7 +5,7 @@ tags:
 
 ## Common gym (every day)      
 1. Warm up
-1. Hanging 
+1. Dead Hang 
 1. Lateral raises with little weight(2 x 12)
 1. Squat with little weight(2 X 12)
  
@@ -43,7 +43,13 @@ tags:
 1. cable triceps 
 1. Diamond Push up
 
-# Pull day ( Back, Biceps, and Rear Delts ) - Mon, & Thus   
+### Traps
+1. Shrugs
+1. Upright rows
+
+
+
+# Pull day ( Back, Biceps, Rear Delts ) - Mon, & Thus   
 
 ### Back
 1. Machine Lat Pull-down
@@ -61,10 +67,11 @@ tags:
 1. Bicep barbell 
 1. Machine Bicep Exercise
 
+### Forearms
+1. Basic forearms
+1. Dead hang 
+1. Pull up 
 
-## Considerable       
-1. Wider upper traps 
-1. forearms
 
 ## Links    
 
@@ -72,6 +79,7 @@ tags:
 * [Video - Saket Gokhale At Home Routine - https://www.youtube.com/watch?v=D0rMwyZv0S0](https://www.youtube.com/watch?v=D0rMwyZv0S0)   
 * [Video - How I Built 3D Shoulders - https://www.youtube.com/watch?v=Cdr6BXqOHOg](https://www.youtube.com/watch?v=Cdr6BXqOHOg)    
 * [Article - Abs Exercise - https://fitcoachky.com/quick-simple-tough-ab-workout/](https://fitcoachky.com/quick-simple-tough-ab-workout/)    
+* [Traps exercise - https://central.gymshark.com/article/5-best-exercises-to-build-bigger-traps](https://central.gymshark.com/article/5-best-exercises-to-build-bigger-traps)
 
 
 

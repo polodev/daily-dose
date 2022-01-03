@@ -81,7 +81,6 @@ Active: Don't use this product in wet areas
 
 
 
-protected $with = ['media', 'activities', 'user'];
 
 
 

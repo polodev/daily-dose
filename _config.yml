@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Daily Dose"
+title: "Shibu Deb Polo"
 email: polodev10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  For tracking daily progress on learning
-baseurl: "/daily-dose" # the subpath of your site, e.g. /blog
+  Personal Blog 
+baseurl: "/shibudebpolo" # the subpath of your site, e.g. /blog
 url: "https://polodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: polodev/daily-dose
+repository: polodev/shibudebpolo
 twitter: shibudebpolo
 github: polodev
-header_image: assets/profile.jpeg
+header_image: assets/letter_s.jpg
+# header_image: assets/profile.jpeg
 
 google_analytics:
 comments: true
@@ -46,7 +47,7 @@ author_bio: >-
   Bangladesh. I'm looking to help those that need web development work done, or
   searching for ideas and management for their next content project.
 author_pic: https://polodev.github.io/shibu_deb_polo.jpg
-paginate: 4
+paginate: 5
 paginate_path: "/:num/"
 
 markdown: kramdown
@@ -66,6 +67,7 @@ kramdown:
 
 # Build settings
 theme: null
+theme_color: "#1eada9"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
