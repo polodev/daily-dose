@@ -24,8 +24,16 @@ layout: default
         <h3>Statement: </h3>
         {{ page.topic }}
         <p>
-            <strong>Debit</strong>: {{ page.debit }}
-            <strong>Credit</strong>: {{ page.credit }}
+            <strong>Debit</strong>: {{ page.debit }} <br>
+            <strong>Credit</strong>: {{ page.credit }} <br>
+            <strong>Protein</strong>: {{ page.protein }} <br>
+            <strong>Exercise</strong>: {{ page.exercise }} <br>
+            {%- if page.learning -%}
+                <strong>Learning Rating</strong>: {{ page.learning }} out of 10<br>
+            {%- endif -%}
+            {%- if page.working -%}
+                <strong>Working Rating</strong>: {{ page.working }} out of 10<br>
+            {%- endif -%}
         </p>
     </div>
 
