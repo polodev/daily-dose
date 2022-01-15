@@ -167,6 +167,7 @@ tags:
 * [DhruvRatheeVlogs - https://www.youtube.com/c/DhruvRatheeVlogs](https://www.youtube.com/c/DhruvRatheeVlogs)
 * [DhruvRatheeVideos - https://www.youtube.com/c/dhruvrathee/videos](https://www.youtube.com/c/dhruvrathee/videos)
 * [Pi Finger Motivation - https://www.youtube.com/channel/UC_UPGu8wh2jgQ65FEFQlMrg](https://www.youtube.com/channel/UC_UPGu8wh2jgQ65FEFQlMrg)
+* [Soch by Mohak Mangal - https://www.youtube.com/channel/UCz4a7agVFr1TxU-mpAP8hkw](https://www.youtube.com/channel/UCz4a7agVFr1TxU-mpAP8hkw)
 
 
 ### Income 
