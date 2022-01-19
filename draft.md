@@ -7,20 +7,13 @@ https://www.youtube.com/watch?v=1Xo0nqjGmi4
 pull
 https://www.youtube.com/watch?v=zsmEovSFlU8
 
-onion - 50
-spice - 110
-vegetable 140
-rice 2 kg - 250 
--------------------
-550
+alu - 120
+peayz - 160
+morich + dhone patha - 20
+------------
 
-onion + ginger + garlick = 200
-------------750
-vim - tk 60
-------------------
-total 810
-
-
+https://cometinsure.com/pk/
+https://www.easyinsurance.com.pk/
 
 
 

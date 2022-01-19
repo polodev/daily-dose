@@ -5,6 +5,7 @@ tags:
 
 ## Common gym (every day)      
 1. Warm up
+1. 100 Push Up in different variant 
 1. Dead Hang 
 1. Lateral raises with little weight(2 x 12)
 1. Squat with little weight(2 X 12)

@@ -43,8 +43,11 @@ layout: default
                       {%- if statement.working -%}
                           <strong>Working Rating:</strong> {{ statement.working }} out of 10<br>
                       {%- endif -%}
-
+                      {%- if statement.focus -%}
+                          <strong>Focus : {{ statement.focus }} </strong><br>
+                      {%- endif -%}
                     </p>
+
                 </header>
             </section>
         {%- endfor -%}

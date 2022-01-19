@@ -37,7 +37,7 @@ no_toc: true
 toc_min: 2
 toc_max: 6
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%b %-d, %Y - %A"
 
 
 author: Shibu Chandra Debnath
