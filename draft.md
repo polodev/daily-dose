@@ -7,10 +7,22 @@ https://www.youtube.com/watch?v=1Xo0nqjGmi4
 pull
 https://www.youtube.com/watch?v=zsmEovSFlU8
 
-alu - 120
-peayz - 160
-morich + dhone patha - 20
+Alu - 120
+Peayz - 160
+Morich + Dhone Patha - 20
+
 ------------
+
+user: furyz
+password: 962Dv+<V<:_
+old password from wordpress texasgastransport
+$P$BlhsHR3oGSxja5/xyHd6GGN0ydSXdu/
+
+- Updated Laravel mix (Asset management build tool) for our codebase
+- Working on new user interface landing page for our website (about 60% completed)
+- Working on affiliated/referral system in our website to endorse blogger/vloggers
+- Refactor code
+- Bug fixed
 
 https://cometinsure.com/pk/
 https://www.easyinsurance.com.pk/
