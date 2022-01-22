@@ -17,6 +17,8 @@ user: furyz
 password: 962Dv+<V<:_
 old password from wordpress texasgastransport
 $P$BlhsHR3oGSxja5/xyHd6GGN0ydSXdu/
+TexasGas
+hello
 
 - Updated Laravel mix (Asset management build tool) for our codebase
 - Working on new user interface landing page for our website (about 60% completed)
