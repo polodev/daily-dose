@@ -7,18 +7,11 @@ https://www.youtube.com/watch?v=1Xo0nqjGmi4
 pull
 https://www.youtube.com/watch?v=zsmEovSFlU8
 
-Alu - 120
-Peayz - 160
-Morich + Dhone Patha - 20
-vim bar - 110
---------
-total - 410
 
-- Alu - 75
-- Onion - 150
-- Vegetable - 50
-- spice - 125
-- lemon + chilli - 20
+
+
+
+
 
 
 user: furyz
