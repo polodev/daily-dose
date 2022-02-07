@@ -4,15 +4,17 @@ grid_row.forEach(function (item) {
   $grid_row_data = {};
 
 })
-var grid_row_array  = [];
+var data  = [];
 $('grid-row').each(function () {
   var grid_cells_data = [];
   $(this).find('grid-cell').each(function () {
     var text = $(this).text();
     grid_cells_data.push(text);
   })
-  grid_row_array.push(grid_cells_data)
+  data.push(grid_cells_data)
 })
+copy(data);
+
 
 $('grid-row').each(function() {
   console.log(this);
