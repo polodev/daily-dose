@@ -4,6 +4,7 @@ grid_row.forEach(function (item) {
   $grid_row_data = {};
 
 })
+// grid row
 var data  = [];
 $('grid-row').each(function () {
   var grid_cells_data = [];
@@ -30,3 +31,4 @@ $('grid-column-header').each(function () {
     var text = $(this).text();
     grid_column_header.push(text);
 })
+copy(grid_column_header);

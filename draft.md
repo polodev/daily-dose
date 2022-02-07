@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=1Xo0nqjGmi4
 pull
 https://www.youtube.com/watch?v=zsmEovSFlU8
 
+Landing page + Inner page
+product journey shahrukh 
+Dashboard       
+
 
 
 
