@@ -1,11 +1,32 @@
-https://www.bytedude.com/jekyll-syntax-highlighting-and-line-numbers/
+# Founder
+1. Alvi - CEO
+2. Arnab - COO
+3. Arif - CCO
+4. Shibu - CTO
 
-leg
-https://www.youtube.com/watch?v=8wF4gqRnlws
-push
-https://www.youtube.com/watch?v=1Xo0nqjGmi4
-pull
-https://www.youtube.com/watch?v=zsmEovSFlU8
+# Accounting
+1. Irfan
+
+# Tech
+1. Ahad
+
+# CS
+1. Emon
+2. Itmam
+3. Kotha
+4. Urmi
+5. Jerin
+6. Priya
+
+# Digital Marketing
+1. Abir
+2. Shakil
+
+# Business Development
+1. Alfaz
+2. Raihan
+
+
 
 
 
